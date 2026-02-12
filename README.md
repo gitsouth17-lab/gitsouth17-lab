@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**gitsouth17-lab/gitsouth17-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da Universidade Autónoma de Lisboa 🎓
+Este GitHub é dedicado principalmente aos trabalhos académicos que desenvolvi ao longo do meu percurso universitário.
 
-Here are some ideas to get you started:
+Aqui partilho alguns dos projetos, realizados nas diferentes unidades curriculares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📁 Trabalhos-Universidade
+ |
+ ├─ 📂 Gestão de Sistemas e Redes
+ |    ├─ Read me 
+ |    └─ Projeto / Código
+ |
+ ├─ 📂 
+ |    ├─ 
+ |    └─ 
+ |
+ ├─ 📂 
+ |    ├─ 
+ |    └─ 
+ |
+ └─ 📂 Outros
+
